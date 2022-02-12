@@ -1,7 +1,7 @@
 # FlaskAPI
 API created to practice Data Structures using Python's Flask Framework
 
-This is a basic Flask application using an SQLAlchemy database of users and blog posts.
+This is a basic Flask application using an SQLite database of users and blog posts.
 I implemented various data structures such as linked lists, hash tables, binary search trees, stacks, and queues and applied them to various end points to practice their real-world use cases.
 
 For example:
